@@ -2,7 +2,7 @@
 
 clear
 
-complete_date=$(date +%M-%d-%Y %H:%M:%S)
+complete_date=$(date +%m-%d-%Y %H:%M:%S)
 dir_by_year=$(date +%Y)
 dir_by_day=$(date +%d)
 current_month=$(date +%B)
